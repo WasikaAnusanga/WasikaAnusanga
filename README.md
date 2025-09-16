@@ -10,11 +10,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2AE8F0&center=true&width=950&lines=Hello+World!;Software+Engineer+Undergraduate;Full-Stack+Developer;Problem+Solver+%7C+Innovator;Code.+Build.+Create.+Repeat." alt="typing">
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kiruluchamika&label=Profile%20Views&color=1e78c1&style=for-the-badge" alt="views"/>
-  <img src="https://img.shields.io/github/followers/kiruluchamika?label=Followers&style=for-the-badge" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/kiruluchamika?label=Stars&style=for-the-badge" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=WasikaAnusanga&label=Profile%20Views&color=1e78c1&style=for-the-badge" alt="views"/>
+  <img src="https://img.shields.io/github/followers/WasikaAnusanga?label=Followers&style=for-the-badge" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/WasikaAnusanga?label=Stars&style=for-the-badge" alt="stars"/>
 </p>
----
+
 
 ## 👨‍💻 About Me
 Hi, I'm **Wasika Anusanga**, a passionate **Software Engineering Undergraduate** who loves crafting secure, efficient, and creative digital solutions. I thrive on problem-solving, teamwork, and blending design with technology.  
