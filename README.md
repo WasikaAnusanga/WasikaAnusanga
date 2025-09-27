@@ -57,17 +57,17 @@ Hi, I'm **Wasika Anusanga**, a passionate **Software Engineering Undergraduate**
   <tr>
     <td width="50%" align="center">
       <!-- Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=kiruluchamika&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=WasikaAnusanga&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats"/>
       <br/><br/>
       <!-- Streak -->
-      <img src="https://streak-stats.demolab.com?user=kiruluchamika&theme=tokyonight&hide_border=true" alt="streak"/>
+      <img src="https://streak-stats.demolab.com?user=WasikaAnusanga&theme=tokyonight&hide_border=true" alt="streak"/>
     </td>
     <td width="50%" align="center">
       <!-- Top Langs -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiruluchamika&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="top langs"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasikaAnusanga&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="top langs"/>
       <br/><br/>
       <!-- Activity Graph -->
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiruluchamika&theme=tokyo-night&hide_border=true" alt="activity graph"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=WasikaAnusanga&theme=tokyo-night&hide_border=true" alt="activity graph"/>
     </td>
   </tr>
 </table>
