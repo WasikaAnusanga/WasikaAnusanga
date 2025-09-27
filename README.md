@@ -80,7 +80,7 @@ Hi, I'm **Wasika Anusanga**, a passionate **Software Engineering Undergraduate**
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kiruluchamika&theme=dracula&no-frame=true&margin-w=8&margin-h=8" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=WasikaAnusanga&theme=dracula&no-frame=true&margin-w=8&margin-h=8" alt="trophies"/>
 </p>
 
 <!-- Fun animated gif link -->
